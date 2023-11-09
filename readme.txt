@@ -17,3 +17,5 @@ dotnet ver.  terminal = dotnet --version.  note had some trouble w/ initial down
 
 note this nuget package gallery does most of the 'coding' for you.  trouble seems mainly with knowing which ones to choose.
   this was only an introductory example.
+
+github branch change note
